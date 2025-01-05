@@ -1,7 +1,10 @@
 # StockMix-better-APP-icons
+
 Disclaimer: 
 I made this pack for my personal use - I only designed the icons for the apps used in stockmix.
 The other Icons and BG are not mine, I just renamed them and placed them in the correct folder for them to show up on my device.
+
+https://github.com/user-attachments/assets/73445b17-7136-4c9a-8e07-4e8c9e5fb426
 
 Content:
 - App icons that fits better with StockMix for the Trimui Brick - Thanks @costlyclick for making Stockmix! (https://github.com/costlyclick/stockmix/)
