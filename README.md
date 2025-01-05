@@ -1,3 +1,20 @@
 # StockMix-better-APP-icons
-App icons that fits better with the dark thems of StockMix for the Trimui Brick
+Disclaimer: 
+I made this pack for my personal use - I only designed the icons for the apps used in stockmix.
+The other Icons and BG are not mine, I just renamed them and placed them in the correct folder for them to show up on my device.
+
+Content:
+- App icons that fits better with StockMix for the Trimui Brick - Thanks @costlyclick for making Stockmix! (https://github.com/costlyclick/stockmix/)
+
+Changes:
+- Added icons for all emulators based on 
+- Added Noire BG from Tenlevels
+- This pack include new icon for the LED control app made by @ro8inmorgan (https://github.com/ro8inmorgan/LedControl)
+- It also includes new icons for the extra emulators from Reddit (https://drive.google.com/file/d/10_MxbgHJ6Pb9TQUoUftVsPk_wt35ZNn6/view)
+
+Instructions:
 Simply drag & drop to replace the pngs
+
+Note:
+I couldn't change the icons for stock apps: fnkey, monnlight, mediaplayer, usb storage, sd formatter - i made the icons but i just don't know where to place them...
+If you know, get in touch with me.
