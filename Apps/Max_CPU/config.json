@@ -1,0 +1,7 @@
+{
+"label":"Max CPU",
+"icontop":"icon.png",
+"icon":"",
+"launch":"launch.sh",
+"description":"Increases speed of CPU to its max perfomance"
+}

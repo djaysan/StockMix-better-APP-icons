@@ -1,0 +1,7 @@
+{
+"label":"LED Control",
+"icontop":"icon.png",
+"icon":"",
+"launch":"launch.sh",
+"description":"Control Leds"
+}

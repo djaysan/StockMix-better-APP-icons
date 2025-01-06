@@ -1,0 +1,7 @@
+{
+"label":"StartupRecent",
+"icontop":"icon.png",
+"icon":"",
+"launch":"launch.sh",
+"description":"Switch the starting tab"
+}

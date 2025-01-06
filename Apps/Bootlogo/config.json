@@ -1,0 +1,7 @@
+{
+"label":"Bootlogo",
+"icontop":"icon.png",
+"icon":"",
+"launch":"launch.sh",
+"description":"Change Boot Logo"
+}
