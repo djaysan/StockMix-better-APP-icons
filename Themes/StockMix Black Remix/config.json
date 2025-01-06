@@ -1,0 +1,38 @@
+{
+    "name":"StockMix Black Remix",
+    "font":"regular.ttf",
+    "fontascii":"regular.ttf",
+    "fontsize":{
+        "nav_font1":28,
+        "nav_font2":20,
+        "content_font1":32,
+        "content_font2":20,
+        "content_font3":44,
+        "content_font4":68,
+        "content_font5":36,
+        "content_font6":24,
+        "stat_font1":20,
+        "menu_font1":32,
+        "popup_font1":40,
+        "popup_font2":32,
+        "popup_font3":32
+    },
+    "fontcolor":{
+        "nav_color1":"#80FFFFFF",
+        "nav_color2":"#FFFFFFFF",
+        "nav_color3":"#80FFFFFF",
+        "content_color1":"#FFFFFFFF",
+        "content_color2":"#80FFFFFF",
+        "content_color3":"#FFADADAD",
+        "content_color4":"#FFADADAD",
+        "stat_color1":"#FFFFFFFF",
+        "stat_color2":"#FFADADAD",
+        "menu_color1":"#FFFFFFFF",
+        "menu_color2":"#FFFFFFFF",
+        "popup_color1":"#FFADADAD",
+        "popup_color2":"#FFFFFFFF",
+        "popup_color3":"#FFFFFFFF",
+        "highlight_color1":"#FFADADAD",
+        "shadow_color1":"#FF000000"
+    }
+} 
