@@ -19,7 +19,7 @@ Changes:
 - Added a new theme 'BLACK' based on the dark but more subtile and fits better with the Noire BG imo.
 
 Instructions:
-download ;atest release here: https://github.com/djaysan/StockMix-better-APP-icons/releases
+download latest release here: https://github.com/djaysan/StockMix-better-APP-icons/releases
 Simply drag & drop to merge all the folders.
 To use ALT icons or BG images - drag them out of their folder to overwrite the exisitng ones
 
