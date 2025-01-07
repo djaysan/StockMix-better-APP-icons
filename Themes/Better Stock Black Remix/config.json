@@ -1,7 +1,7 @@
 {
-    "name":"StockMix Black Remix",
-    "font":"regular.ttf",
-    "fontascii":"regular.ttf",
+    "name":"Better Stock Black Remix",
+    "font":"roboto-regular.ttf",
+    "fontascii":"roboto-regular.ttf",
     "fontsize":{
         "nav_font1":28,
         "nav_font2":20,
