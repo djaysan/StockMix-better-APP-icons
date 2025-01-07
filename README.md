@@ -11,17 +11,20 @@ Content:
 
 Changes:
 - Added icons for all emulators based on Skylance amazing work "CrossMix Refreshed v1.1.0' MADE FOR THE SMART PRO (https://drive.google.com/drive/folders/1xPfowrcMH-6-YPgDnIFWt4OyPHBSVLXY)
+- Added ALT icons for all emulators based on @RWGlix HD icons
 - Added Noire BG from Tenlevels based on Skylance amazing work "CrossMix Refreshed v1.1.0' MADE FOR THE SMART PRO
-- Added Burst! BG from Skylance based on Skylance amazing work "CrossMix Refreshed v1.1.0' MADE FOR THE SMART PRO
+- Added ALT Burst! BG from Skylance based on Skylance amazing work "CrossMix Refreshed v1.1.0' MADE FOR THE SMART PRO
 - This pack include new icon for the LED control app made by @ro8inmorgan (https://github.com/ro8inmorgan/LedControl)
-- It also includes new icons for the extra emulators from Reddit user @RWGlix - posted here: https://www.reddit.com/r/trimui/comments/1hqnrz2/stockmix_6_new_emulator_catagories/ (https://drive.google.com/file/d/10_MxbgHJ6Pb9TQUoUftVsPk_wt35ZNn6/view)
+- It also includes new icons for the extra emulators from RWGlix - posted here: https://www.reddit.com/r/trimui/comments/1hqnrz2/stockmix_6_new_emulator_catagories/ 
 - Added a new theme 'BLACK' based on the dark but more subtile and fits better with the Noire BG imo.
 
 Instructions:
+download latest release here: https://github.com/djaysan/StockMix-better-APP-icons/releases
 Simply drag & drop to merge all the folders.
+To use ALT icons or BG images - drag them out of their folder to overwrite the exisitng ones
 
 Note:
 I couldn't change the icons for stock apps: fnkey, monnlight, mediaplayer, usb storage, sd formatter - i made the icons but i just don't know where to place them...
 If you know, get in touch with me.
 
-All credits where it's due! if you feel i forgot to mention your work. please dm me.
+All credits where it's due! if you feel i forgot to mention your work. kindly dm me.
